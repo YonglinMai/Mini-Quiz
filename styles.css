@@ -1,0 +1,32 @@
+body{
+    text-align:center;
+    background: url("http://s12.sinaimg.cn/orignal/4a84aeac1ee0ab56757cb");
+    font-family: 'Srisakdi', cursive;
+}
+img{
+    width:500px;
+    height:698px;
+}
+
+input{
+    padding:10px;
+}
+
+h1{
+    font-size:40px;
+}
+
+p{
+    font-size:30px;
+}
+
+h3{
+    font-size:20px;
+}
+button{
+    padding: 10px;
+    margin:10px;
+    font-family: 'Srisakdi', cursive;
+    font-size: 15px;
+    border-radius:50px;
+}
